@@ -11,7 +11,7 @@
     "gulp-less": "1.2.3",
     "gulp-sass": "~0.7.2",
     "gulp-traceur": "0.7.0",
-    "gulp-wrapper": "adrotec/gulp-wrapper#master",
+    "gulp-wrapper": "adrotec/gulp-wrapper#master"
   },
   "main": "",
   "author":  {
