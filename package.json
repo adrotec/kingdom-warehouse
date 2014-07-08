@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Common files shared by kingdom builders",
   "dependencies": {
-    "pipe": "angular/pipe#remove-transitive-deps",
+    "pipe": "angular/pipe#master",
     "event-stream": "^3.1.5",
     "gulp": "^3.5.6",
     "gulp-concat": "2.2.0",
