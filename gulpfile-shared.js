@@ -121,6 +121,9 @@ function gulpShared(){
     gulp.src('./node_modules/requirejs/*')
     .pipe(gulp.dest(dist + '/lib/requirejs'));
 
+    gulp.src('./node_modules/kingdom/*')
+    .pipe(gulp.dest(dist + '/lib/kingdom'));
+
     gulp.src('./node_modules/traceur/bin/*')
     .pipe(gulp.dest(dist + '/lib/traceur/bin'));
 
